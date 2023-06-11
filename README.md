@@ -64,7 +64,7 @@ Para eso creamos la notebook test.ipynb para usar la libreria request.
 
 ### Deploy en Azure - Custom
 
-Vamos a crear una VM a partir de la ImageGallery utilizada en el práctico 2 ya que ya contiene **Docker y Git dentro.**
+Vamos a crear una VM a partir de la ImageGallery utilizada en el práctico 2 ya que contiene **Docker y Git dentro.**
 
 Importante, dejarle el puerto 8080 en una inbound rule, ya que este sera el puerto por el cual vamos a acceder a la API.
 
