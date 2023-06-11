@@ -50,7 +50,7 @@ Paso 2: Vamos a crear un archivo main.py:
 Paso 3: Creamos el Dockerfile
 
 
-## Build: construye tu imagen Docker:
+## Build: construye tu imagen Docker
 
 docker build -t model-keras:latest .
 
